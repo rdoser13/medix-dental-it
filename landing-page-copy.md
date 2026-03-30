@@ -16,7 +16,7 @@
 
 **H1:** Dental IT Support Services That Keep Your Practice Running
 
-**Subhead (H2):** Managed IT built specifically for dental practices and DSOs. 20+ years of experience. 100s of practices protected nationwide.
+**Subhead (H2):** The dental IT support company built exclusively for dental practices and DSOs. 20+ years of experience. 100s of practices protected nationwide.
 
 **3 Bullet Proof Points (with checkmark icons):**
 - 24/7 dental IT support with immediate response times
@@ -34,7 +34,7 @@
 
 **Form Headline (H3):** Get Your Free Dental IT Consultation
 
-**Form Subtext:** Tell us about your practice. We'll show you exactly where your IT is falling short and how to fix it.
+**Form Subtext:** Most practices we assess have 3-5 critical gaps they didn't know about. We'll show you exactly where your IT needs improvement and what to fix first.
 
 **Form Fields:**
 - Practice Name*
@@ -53,7 +53,7 @@
 
 ## SECTION 2: Problem Agitation (Why You're Here)
 
-**Section Headline (H2):** Your Dental Practice Can't Afford IT That Doesn't Work
+**Section Headline (H2):** Your Dental Office Can't Afford IT That Doesn't Work
 
 **Body copy (short paragraphs, Medix brand voice):**
 
@@ -61,13 +61,13 @@ When your practice management software goes down, patients can't check in. When 
 
 Most dental practices are stuck with IT providers who don't understand dental. They don't know your software. They don't know HIPAA. And when something breaks, you wait hours for a callback.
 
-That's not dental IT support. That's a liability.
+Your dental office needs IT support built for dentistry. Not a generic help desk that treats you like every other small business.
 
 ---
 
 ## SECTION 3: What You Get (Services Grid)
 
-**Section Headline (H2):** Dental Managed IT Services Built for Your Practice
+**Section Headline (H2):** Dental IT Solutions Built for Your Practice
 
 **Layout:** 2x3 grid of service cards with icons.
 
@@ -151,7 +151,23 @@ From day one, your practice gets 24/7 dental IT support, proactive monitoring, a
 
 ---
 
-## SECTION 7: Final CTA (Bottom of Page)
+## SECTION 7: Service Area
+
+**Section Headline (H2):** Serving Dental Practices Across the Midwest and Beyond
+
+**Body:** Medix Dental IT provides on-site and remote dental office IT support across Colorado, Iowa, Illinois, Wisconsin, Minnesota, Nebraska, Kansas, Missouri, South Dakota, and Wyoming. Nationwide remote support available for practices and DSOs in all 50 states.
+
+---
+
+## SECTION 8: Why Medix (Differentiator CTA Block)
+
+**Section Headline (H2):** Why Dental Practices Choose Medix
+
+**Body:** Family-owned. Dental-only for 20+ years. We're not a generic MSP that treats your dental office like every other small business. Your team gets direct access to engineers who know Dentrix, Eaglesoft, Open Dental, and the compliance demands your practice faces every day.
+
+---
+
+## SECTION 9: Final CTA (Bottom of Page)
 
 **Section Headline (H2):** Stop Losing Time to IT Problems
 
